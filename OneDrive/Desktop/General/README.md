@@ -1,11 +1,11 @@
-# Container With Most Water
+# Longest Palindromic Substring
 
 - **Platform:** LeetCode
-- **Problem Number:** #11
+- **Problem Number:** #5
 - **Difficulty:** EASY
 - **Topic:** General
 - **Language:** Java
-- **Problem Link:** [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- **Problem Link:** [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 ---
 
@@ -15,7 +15,7 @@ Standard algorithmic solution utilizing optimal data structures for General.
 
 ## Complexity Analysis
 
-- **Time Complexity:** `O(n)`
+- **Time Complexity:** `O(n²)`
 - **Space Complexity:** `O(1)`
 
 
