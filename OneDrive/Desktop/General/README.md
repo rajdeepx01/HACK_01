@@ -1,11 +1,11 @@
-# Longest Palindromic Substring
+# Two Sum
 
 - **Platform:** LeetCode
-- **Problem Number:** #5
+- **Problem Number:** #1
 - **Difficulty:** EASY
 - **Topic:** General
 - **Language:** Java
-- **Problem Link:** [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- **Problem Link:** [Two Sum](https://leetcode.com/problems/two-sum/)
 
 ---
 
@@ -16,7 +16,7 @@ Standard algorithmic solution utilizing optimal data structures for General.
 ## Complexity Analysis
 
 - **Time Complexity:** `O(n²)`
-- **Space Complexity:** `O(1)`
+- **Space Complexity:** `O(n)`
 
 
 ---
