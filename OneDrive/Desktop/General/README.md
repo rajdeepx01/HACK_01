@@ -1,11 +1,11 @@
-# Two Sum
+# Zigzag Conversion
 
 - **Platform:** LeetCode
-- **Problem Number:** #1
+- **Problem Number:** #6
 - **Difficulty:** EASY
 - **Topic:** General
 - **Language:** Java
-- **Problem Link:** [Two Sum](https://leetcode.com/problems/two-sum/)
+- **Problem Link:** [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 ---
 
@@ -15,8 +15,8 @@ Standard algorithmic solution utilizing optimal data structures for General.
 
 ## Complexity Analysis
 
-- **Time Complexity:** `O(n²)`
-- **Space Complexity:** `O(n)`
+- **Time Complexity:** `O(n)`
+- **Space Complexity:** `O(1)`
 
 
 ---
