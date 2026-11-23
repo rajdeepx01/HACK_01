@@ -1,11 +1,11 @@
-# Generate Parentheses
+# Longest Palindrome
 
 - **Platform:** LeetCode
-- **Problem Number:** #22
+- **Problem Number:** #409
 - **Difficulty:** EASY
 - **Topic:** General
 - **Language:** Java
-- **Problem Link:** [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+- **Problem Link:** [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 
 ---
 
@@ -16,7 +16,7 @@ Standard algorithmic solution utilizing optimal data structures for General.
 ## Complexity Analysis
 
 - **Time Complexity:** `O(1)`
-- **Space Complexity:** `O(n)`
+- **Space Complexity:** `O(1)`
 
 
 ---
